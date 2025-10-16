@@ -1,5 +1,6 @@
 // Configuração da API
-const API_URL = 'https://gestao-de-eventos-api.onrender.com';
+const API_BASE_URL = "https://gestao-de-eventos-api.onrender.com/api";
+
 
 // Inicialização da aplicação
 document.addEventListener('DOMContentLoaded', () => {
